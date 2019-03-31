@@ -1,0 +1,60 @@
+.right{
+  position : absolute;
+  right :8px;
+  background-color:  #ffb84d;
+  padding :1% ;
+  border-left: 2px dotted black;
+}
+ol{
+list-style: none;
+padding:0px
+}
+li{
+  padding:  2px;
+}
+h2{
+  background: gray;
+  padding: 1%;
+}
+dd{
+  margin: 0px;
+}
+dt{
+  color:  #b33c00;
+  font-weight: bold;
+}
+#top{
+  background-image: url("flowers.jpeg");
+
+  height: 150px;
+}
+#isolate{
+  width:20em;
+  background-color: rgba(0, 0, 0, 0.5);
+  padding: 15px;
+height: 120px;
+}
+h1{
+  color: white;
+  letter-spacing: 15px;
+  padding: 0;
+  margin: 0;
+  padding-top: 5px;
+  margin-top:  5px;
+}
+h4{
+  padding: 0;
+  margin: 0;
+  color:  #e64d00;
+
+}
+#bottom{
+  color:white;
+  text-align: center;
+  background-image: url("preview-82967-gZ6ArOJAiM-low_0011.jpg");
+  position: fixed;
+  bottom: 5px;
+  right: 8px;
+  left: 10px;
+  height: 110px;
+}
